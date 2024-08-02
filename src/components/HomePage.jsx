@@ -401,8 +401,11 @@ const HomePage = () => {
             </p>
           </div>
         </div>
-        <div>
-          <img src="src\assets\images\Location Image.png" alt="...." />
+        <div className="map">
+          <div>
+            <img src="src\assets\images\Location Image.png" alt="...." />
+          </div>
+          <img src="src\assets\images\pointer.png" alt="...." />
         </div>
       </div>
       <div className="footer-section">
