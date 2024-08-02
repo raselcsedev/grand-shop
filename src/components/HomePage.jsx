@@ -317,7 +317,7 @@ const HomePage = () => {
           <div className="second-notice-events">
             <div className="second-all-notice">
               <h6>
-                OCT <br /> 31
+                Oct <br /> 31
               </h6>
               <div className="all-notice-details">
                 <span>Lorem ipsum dolor sit amet, consectetur</span>
@@ -326,7 +326,7 @@ const HomePage = () => {
             </div>
             <div className="second-all-notice">
               <h6>
-                OCT <br /> 31
+                Sep <br /> 23
               </h6>
               <div className="all-notice-details">
                 <span>Lorem ipsum dolor sit amet, consectetur</span>
@@ -335,7 +335,7 @@ const HomePage = () => {
             </div>
             <div className="second-all-notice">
               <h6>
-                OCT <br /> 31
+                Aug <br /> 12
               </h6>
               <div className="all-notice-details">
                 <span>Lorem ipsum dolor sit amet, consectetur</span>
